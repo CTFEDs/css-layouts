@@ -1,3 +1,3 @@
 # CSS layouts
 
-Practice fiels for layouts workshop.
+Practice files for layouts workshop.
