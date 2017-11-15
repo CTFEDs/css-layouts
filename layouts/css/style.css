@@ -97,10 +97,6 @@ nav a:hover {
   color: #444;
   margin:  0 1rem 2rem;
   text-decoration: none;
-  /*width: calc(25% - 2rem);*/
-
-  /*float: left;*/
-
 }
 
 .gallery-text {
@@ -141,14 +137,6 @@ footer {
   background-color: #f7f7f7;
   border-top: 1px dotted white;
   padding: 1rem;
-
-  /* Flexbox things */
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  /* Grid things */
-  grid-column: 1 / -1;
 }
 
 footer a {
